@@ -1,5 +1,7 @@
 # CodiMD Book mode
 
+> Fork from: https://github.com/0140454/codimd-book
+
 Display a sidebar like HackMD book mode
 
 Available on [Chrome Web Store](https://chrome.google.com/webstore/detail/codimd-book-mode/apahkbcjkfpaknjebpaoaehpjiedeapa).

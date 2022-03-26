@@ -22,7 +22,8 @@
       ],
       "include_globs": [
         "*hackmd*?*book*",
-        "*codimd*?*book*"
+        "*codimd*?*book*",
+        "*md*?*book*"
       ],
       "run_at": "document_start",
       "css": [
